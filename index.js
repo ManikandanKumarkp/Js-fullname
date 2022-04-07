@@ -12,3 +12,6 @@ const person ={ fname:"mani", lname:"kandan"
 };
 
 document.getElementById("demo").innerHTML = person.fname +"" +person.lname;
+
+const cars = ["Saab", "Volvo", "BMW"];
+document.getElementById("demo").innerHTML = cars;
